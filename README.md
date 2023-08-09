@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maryballa
-- 👀 I’m interested in coding, web development, website templates,...
+- 👀 I’m interested in web development, website templates, chrome extensions, anything coding related
 - 🌱 I’m currently a student majoring in computer science and biomedical informatics
 - 📫 How to reach me ballamariab@gmail.com
 
