@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maryballa
 - 👀 I’m interested in coding, web development, website templates,...
 - 🌱 I’m currently a student majoring in computer science and biomedical informatics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ballamariab@gmail.com
 
 <!---
